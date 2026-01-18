@@ -46,7 +46,7 @@ The dataset includes:
 ## 📑 Dashboard Structure
 ## 1️⃣ Sales Overview
 
-![Sales Overview](Sales Overview.png)
+![Sales Overview](Screenshots/Sales%20Overview.png)
 
 Purpose: High-level business performance tracking
 Key Insights:
@@ -65,7 +65,7 @@ Helps management quickly assess company performance and identify return-heavy pr
 
 ## 2️⃣ Order Pattern Analysis
 
-![Order Pattern Analysis](Screenshots/Order Pattern Analysis.png)
+![Order Pattern Analysis](Screenshots/Order%20Pattern%20Analysis.png)
 
 Purpose: Understand demand behavior over time
 Key Insights:
@@ -84,7 +84,7 @@ Supports inventory planning and staffing decisions based on demand patterns.
 
 ## 3️⃣ Summary Report
 
-![Summary Report](Screenshots/Summary Report.png)
+![Summary Report](Screenshots/Summary%20Report.png)
 
 Purpose: Combined performance snapshot
 Key Insights:
@@ -102,7 +102,8 @@ Allows leadership to evaluate whether business goals and targets are being achie
 
 ## 4️⃣ Product Performance Report
 
-![Product Performance](Screenshots/Product Performance.png)
+![Product Report](Screenshots/Product%20Report.png)
+
 Purpose: Product-level profitability analysis
 Key Insights:
 
@@ -119,7 +120,7 @@ Helps identify high-performing products and optimize pricing strategies.
 
 ## 5️⃣ Customer Report
 
-![Customer Report](Screenshots/Customer Report.png)
+![Customer Report](Screenshots/Customer%20Report.png)
 Purpose: Customer behavior and segmentation analysis
 Key Insights:
 
