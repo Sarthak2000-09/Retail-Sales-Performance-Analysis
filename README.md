@@ -46,7 +46,7 @@ The dataset includes:
 ## 📑 Dashboard Structure
 ## 1️⃣ Sales Overview
 
-![Sales Overview](Screenshots/Sales Overview.png)
+![Sales Overview](Sales Overview.png)
 
 Purpose: High-level business performance tracking
 Key Insights:
