@@ -166,5 +166,3 @@ The dashboard can be used by sales managers, operations teams, and business lead
 Sarthak Sarangle
 Data Analyst | Power BI | SQL | Data Visualization
 
-Sarthak Sarangle
-Data Analyst | Power BI | SQL | Data Visualization
