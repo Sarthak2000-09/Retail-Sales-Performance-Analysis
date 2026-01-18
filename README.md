@@ -1,11 +1,11 @@
-#📊 Sales & Customer Analytics Dashboard (Power BI)
-##📌 Project Overview
+# 📊 Sales & Customer Analytics Dashboard (Power BI)
+## 📌 Project Overview
 
 This project is an end-to-end business intelligence dashboard built using Microsoft Power BI to analyze sales performance, order patterns, product profitability, and customer behavior.
 
 The dashboard converts raw transactional data into actionable business insights that support decision-making across sales, inventory planning, and customer segmentation.
 
-##🎯 Business Objectives
+## 🎯 Business Objectives
 
 Monitor overall sales and revenue performance
 
@@ -17,7 +17,7 @@ Evaluate product-level profitability trends
 
 Understand customer demographics and purchasing behavior
 
-##🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI Desktop
 
@@ -29,7 +29,7 @@ Data Modeling (Star Schema)
 
 Time Intelligence Functions
 
-##📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset includes:
 
@@ -43,8 +43,8 @@ Calender ,Sales targets and return information
 
 Territory and region data
 
-##📑 Dashboard Structure
-##1️⃣ Sales Overview
+## 📑 Dashboard Structure
+## 1️⃣ Sales Overview
 
 Purpose: High-level business performance tracking
 Key Insights:
@@ -60,7 +60,7 @@ Product-wise return analysis
 Business Value:
 Helps management quickly assess company performance and identify return-heavy products.
 
-##2️⃣ Order Pattern Analysis
+## 2️⃣ Order Pattern Analysis
 
 Purpose: Understand demand behavior over time
 Key Insights:
@@ -76,7 +76,7 @@ Order percentage split analysis
 Business Value:
 Supports inventory planning and staffing decisions based on demand patterns.
 
-##3️⃣ Summary Report
+## 3️⃣ Summary Report
 
 Purpose: Combined performance snapshot
 Key Insights:
@@ -92,7 +92,7 @@ Profit contribution by category
 Business Value:
 Allows leadership to evaluate whether business goals and targets are being achieved.
 
-##4️⃣ Product Performance Report
+## 4️⃣ Product Performance Report
 
 Purpose: Product-level profitability analysis
 Key Insights:
@@ -108,7 +108,7 @@ Revenue and order target tracking
 Business Value:
 Helps identify high-performing products and optimize pricing strategies.
 
-##5️⃣ Customer Report
+## 5️⃣ Customer Report
 
 Purpose: Customer behavior and segmentation analysis
 Key Insights:
@@ -124,7 +124,7 @@ Individual customer performance overview
 Business Value:
 Enables customer segmentation, targeted marketing, and personalized sales strategies.
 
-##📈 Key DAX Concepts Used
+## 📈 Key DAX Concepts Used
 
 Calculated Measures
 
@@ -136,7 +136,7 @@ Dynamic KPI comparisons
 
 Parameter-based pricing analysis
 
-##✅ Key Business Insights
+## ✅ Key Business Insights
 
 - Analyzed total revenue of $24.91M against target of $27.41M, identifying a 9.1% shortfall; tracked profit
 trends alongside revenue to highlight areas for improvement.
@@ -147,7 +147,7 @@ income group (47% of revenue) as top contributors, enabling targeted marketing c
 - Comparedrevenue and profit by category, identifying Bikes as the primary revenue driver ( 95%) and Accessories
 as a high-margin category ( 63%), enabling margin optimization strategies
 
-##📌 Conclusion
+## 📌 Conclusion
 
 This Power BI project demonstrates the ability to:
 
@@ -161,7 +161,7 @@ Communicate insights effectively to stakeholders
 
 The dashboard can be used by sales managers, operations teams, and business leaders for data-driven decision making.
 
-##👤 Author
+## 👤 Author
 
 Sarthak Sarangle
 Data Analyst | Power BI | SQL | Data Visualization
